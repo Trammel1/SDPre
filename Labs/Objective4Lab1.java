@@ -19,7 +19,6 @@ public class Objective4Lab1{
       System.out.println("What is your first name?");
 //input from keyboard scanner to add information to variables
       fname = keyboard.nextLine();
-
       System.out.println("Trammel");
       firstname = keyboard.nextLine();
 
