@@ -8,7 +8,7 @@ public class Objective4Lab1{
       Scanner keyboard = new Scanner(System.in);
 
 //declare and initialize variables without distinct information
-      String fname = "Trammel";
+      String fname = "";
       String lname = "Clark";
       String favoriteAnimal = "Tiger";
       String favoriteFood = "Hot WIngs";
@@ -17,7 +17,7 @@ public class Objective4Lab1{
 //output for question
       System.out.println("What is your first name?");
 //input from keyboard scanner to add information to variables
-      fname = keyboard.nextLine();
+      fname = keyboard.nextLine(Trammel);
 
       System.out.println("What is your last name?");
       lname = keyboard.nextLine();
