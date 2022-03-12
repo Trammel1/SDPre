@@ -37,6 +37,7 @@ public class Objective4Lab1{
 
 //final output
       System.out.println("My name is Trammel" + fname + " " + lname);
+      System.out.println("Trammel" + firstname);
       System.out.println("My favorite animal is the Tiger" + favoriteAnimal);
       System.out.println("My favorite food is Hot Wings" + favoriteFood);
       System.out.println("Such a difficult question" + favoriteSong);
