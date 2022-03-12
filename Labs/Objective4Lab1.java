@@ -19,6 +19,9 @@ public class Objective4Lab1{
 //input from keyboard scanner to add information to variables
       fname = keyboard.nextLine();
 
+      System.out.println("Trammel")
+      fname = keyboard.nextLine();
+
       System.out.println("What is your last name?");
       lname = keyboard.nextLine();
 
