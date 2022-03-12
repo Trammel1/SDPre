@@ -34,19 +34,19 @@ public class Objective4Lab1{
       favoriteAnimal = keyboard.nextLine();
 
       System.out.println("Tiger");
-      bigCat = keyboard.nextLine();
+      BigCat = keyboard.nextLine();
 
       System.out.println("What is your favorite food?");
       favoriteFood = keyboard.nextLine();
 
       System.out.println("Hot Wings");
-      chicken = keyboard.nextLine();
+      Chicken = keyboard.nextLine();
 
       System.out.println("What is your favorite song?");
       favoriteSong = keyboard.nextLine();
 
       System.out.println("Thats Hard");
-      tough = keyboard.nextLine();
+      Tough = keyboard.nextLine();
 
 //final output
       System.out.println("My name is Trammel Clark" + fname + " " + lname);
