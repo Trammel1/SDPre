@@ -13,8 +13,11 @@ public class Objective4Lab1{
       String lname = "";
       String lastname = "";
       String favoriteAnimal = "";
+      String BigCat = "";
       String favoriteFood = "";
+      String Chicken = "";
       String favoriteSong = "";
+      String Tough = "";
 
 //output for question
       System.out.println("What is your first name?");
