@@ -9,15 +9,15 @@ public class Objective4Lab1{
 
 //declare and initialize variables without distinct information
       String fname = "";
-      String lname = "Clark";
-      String favoriteAnimal = "Tiger";
-      String favoriteFood = "Hot WIngs";
-      String favoriteSong = "Such a difficult question";
+      String lname = "";
+      String favoriteAnimal = "";
+      String favoriteFood = "";
+      String favoriteSong = "";
 
 //output for question
       System.out.println("What is your first name?");
 //input from keyboard scanner to add information to variables
-      fname = keyboard.nextLine("Trammel");
+      fname = keyboard.nextLine();
 
       System.out.println("What is your last name?");
       lname = keyboard.nextLine();
@@ -32,10 +32,10 @@ public class Objective4Lab1{
       favoriteSong = keyboard.nextLine();
 
 //final output
-      System.out.println("My name is " + fname + " " + lname);
-      System.out.println("My favorite animal is the " + favoriteAnimal);
-      System.out.println("My favorite food is " + favoriteFood);
-      System.out.println("My favorite song is " + favoriteSong);
+      System.out.println("My name is Trammel" + fname + " " + lname);
+      System.out.println("My favorite animal is the Tiger" + favoriteAnimal);
+      System.out.println("My favorite food is Hot Wings" + favoriteFood);
+      System.out.println("Such a difficult question" + favoriteSong);
 
     }
 }
