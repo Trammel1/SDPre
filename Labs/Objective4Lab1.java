@@ -9,6 +9,7 @@ public class Objective4Lab1{
 
 //declare and initialize variables without distinct information
       String fname = "";
+      String firstname = "";
       String lname = "";
       String favoriteAnimal = "";
       String favoriteFood = "";
@@ -20,7 +21,7 @@ public class Objective4Lab1{
       fname = keyboard.nextLine();
 
       System.out.println("Trammel")
-      fname = keyboard.nextLine();
+      firstname = keyboard.nextLine();
 
       System.out.println("What is your last name?");
       lname = keyboard.nextLine();
