@@ -13,7 +13,7 @@ public class Objective4Lab3 {
     currentYear = 2022;
     birthYear = (currentYear - age -1);
 
-    System.out.println("You were born in " birthMonth + birthYear + ", ?");
+    System.out.println("You were born in " birthYear ", ?");
 
     input.close();
   }
